@@ -1,0 +1,11 @@
+pid,volume,product_name,price, cost ,stock
+IP3,0.2,Strawberry Tiny Cup,110,98.45,225000
+IP2,0.2,Chocolate Petite Bar,90,79.2,75000
+IP1,0.2,Vanilla Mini Cone,100,89,120000
+IP5,0.2,Butter Pecan Small Stick,100,88.5,150000
+IP4,0.2,Mint Bite-size Pop,100,89.5,200000
+BP2,1,Moose Tracks Jumbo Cup,1100,924,8000
+BP1,1,Chocolate Fudge Big Scoop,1200,"1,020.00",10000
+BP5,1,Cookies and Cream Mega Tub,1100,918.5,4000
+BP3,1,Mint Chocolate Chip Family Pack,1150,966,9000
+BP4,1,Rocky Road Mega Tub,1000,820,5000
